@@ -7,6 +7,9 @@ Bu proje; Bursa Teknik Üniversitesi 2022 Güz Dönemi Bilgisayar Mühendisliği
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emirhan-aks%C3%B6z/)
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:emirhanaksoz1@gmail.com)](mailto:emirhanaksoz1@gmail.com)
+<br>
+<br>
+<br>
 
 # **Perceptron, Yapay sinir ağları, RNN algoritması**
 
