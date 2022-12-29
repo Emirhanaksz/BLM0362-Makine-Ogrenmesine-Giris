@@ -5,6 +5,9 @@ Bu proje; Bursa Teknik Üniversitesi 2022 Güz Dönemi Bilgisayar Mühendisliği
 
 🧾 Sunum Dosyası ➜ [`tıklayın`](https://github.com/Emirhanaksz/BLM0362-Makine-Ogrenmesine-Giris/blob/main/Makine%20%C3%96%C4%9Frenmesi%20Sunum.pdf)
 
+
+
+
 ## Benimle İletişime Geçmek İçin!
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emirhan-aks%C3%B6z/)
