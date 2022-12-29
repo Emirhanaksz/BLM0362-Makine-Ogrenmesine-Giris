@@ -2,6 +2,7 @@
 Bu proje; Bursa Teknik Üniversitesi 2022 Güz Dönemi Bilgisayar Mühendisliğine Giriş dersi için hazırlanmıştır. 
 
 👨🏾‍💻 Sunum videosu ➜ [`tıklayın`](https://youtu.be/-LmVy9_3oUI)
+🧾 Sunum Dosyası ➜ [`tıklayın`](https://github.com/Emirhanaksz/BLM0362-Makine-Ogrenmesine-Giris/blob/main/Makine%20%C3%96%C4%9Frenmesi%20Sunum.pdf)
 
 ## Benimle İletişime Geçmek İçin!
 
