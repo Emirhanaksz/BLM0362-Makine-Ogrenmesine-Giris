@@ -17,6 +17,7 @@ Bu proje; Bursa Teknik Üniversitesi 2022 Güz Dönemi Bilgisayar Mühendisliği
 1. [Perceptron](#Perceptron)
 2. [Yapay Sinir Ağları](#YSA)
 3. [RNN Algoritması](#RNN)
+4. [Kaynakça](#Kaynakça)
 
 <br>
 
