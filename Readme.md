@@ -1,5 +1,5 @@
 # 🔎 HAKKINDA
-Bu proje; Bursa Teknik Üniversitesi 2022 Güz Dönemi dersi olan Bilgisayar Mühendisliğine Giriş dersi için hazırlanmıştır. 
+Bu proje; Bursa Teknik Üniversitesi 2022 Güz Dönemi Bilgisayar Mühendisliğine Giriş dersi için hazırlanmıştır. 
 
 👨🏾‍💻 Sunum videosu ➜ [`tıklayın`](https://youtu.be/-LmVy9_3oUI)
 
